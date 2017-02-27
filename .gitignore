@@ -179,3 +179,4 @@ FakesAssemblies/
 /.vs/config/applicationhost.config
 /.vs/
 /*/.vs/
+*.cache
